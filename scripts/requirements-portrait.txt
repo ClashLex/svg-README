@@ -1,8 +1,0 @@
-# Only needed locally, once, to regenerate clash-ascii.svg from a new photo.
-# The CI workflow does NOT need these (see scripts/requirements.txt) --
-# the portrait SVG is static and committed, not regenerated on a schedule.
-opencv-python-headless
-numpy
-Pillow
-rembg
-onnxruntime
