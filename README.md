@@ -12,7 +12,7 @@
 
 ## Ansil — ClashLex
 
-**B.Tech CSE Student · GDG Campus Lead · Builder**
+**B.Tech CSE Student · GSA26 · Builder**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-clashlex.github.io-0a0a0c?style=for-the-badge&logo=vercel&logoColor=white)](https://clashlex.github.io/Ansil)
 [![GitHub](https://img.shields.io/badge/GitHub-ClashLex-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/ClashLex)
